@@ -1,0 +1,1 @@
+This project is a very simple code to generate test fixture using Builder pattern. If you are developing your project using DDD aproach, this repository may give you an idea how to generate Test Fixtures for your domain model.
