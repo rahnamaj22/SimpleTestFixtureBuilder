@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{DEFF3414-E6E3-498A-BACB-CE33E17FC212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleDomain", "SampleDomain\SampleDomain.csproj", "{0AD47609-CC88-4C0C-BCD4-2DE3FD4CC6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFF3414-E6E3-498A-BACB-CE33E17FC212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFF3414-E6E3-498A-BACB-CE33E17FC212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFF3414-E6E3-498A-BACB-CE33E17FC212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFF3414-E6E3-498A-BACB-CE33E17FC212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD47609-CC88-4C0C-BCD4-2DE3FD4CC6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD47609-CC88-4C0C-BCD4-2DE3FD4CC6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD47609-CC88-4C0C-BCD4-2DE3FD4CC6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD47609-CC88-4C0C-BCD4-2DE3FD4CC6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
